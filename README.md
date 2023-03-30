@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d79ff&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4d79ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcelo+Alves;I'm+43+years+old;I+from+Brazil;I+student+Development;Be+welcome!+:%29;follow+me+on+my+social+networks+down+here)](https://git.io/typing-svg)
+
 <div align="center"> 
 <a href="https://instagram.com/alvesbelemdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.youtube.com/channel/UC2o0gAPPXmuMXIqRyVS_x8Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -14,8 +16,6 @@
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4d79ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcelo+Alves;I'm+43+years+old;I+from+Brazil;I+student+Development;Be+welcome!+:%29)](https://git.io/typing-svg)
 
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlvesBelem&show_icons=true&count_private=true&hide_border=true&title_color=4d79ff&icon_color=cc0000&text_color=ffffff&bg_color=0d1117" alt="Marcelo Alves github stats" /> 
