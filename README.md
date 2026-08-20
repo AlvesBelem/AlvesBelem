@@ -1,51 +1,85 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d79ff&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4d79ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcelo+Alves;I'm+43+years+old;I+from+Brazil;I+student+Development;Be+welcome!+:%29;follow+me+on+my+social+networks+down+here)](https://git.io/typing-svg)
-
-<div align="center"> 
-<a href="https://instagram.com/alvesbelemdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.youtube.com/channel/UC2o0gAPPXmuMXIqRyVS_x8Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:marcelo.alves28@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/alvesbelem/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-
-  <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlvesBelem&show_icons=true&count_private=true&hide_border=true&title_color=4d79ff&icon_color=cc0000&text_color=ffffff&bg_color=0d1117" alt="Marcelo Alves github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvesBelem&layout=compact&hide_border=true&title_color=ff91a4&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlvesBelem&bg_color=0d1117&color=ffffff&line=4d79ff&point=000080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlvesBelem&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextjs&labelColor=0D1117)&nbsp; 
-
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextjs&labelColor=0D1117)&nbsp; 
+<!-- ===================================================== -->
+<!--                    HERO / HEADER                      -->
+<!-- ===================================================== -->
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AlvesBelem}/count.svg" /></p> 
-<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Marcelo%20Alves&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
+
 </div>
 
+<!-- ===================================================== -->
+<!--                    INTRODUCTION                       -->
+<!-- ===================================================== -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d79ff&height=120&section=footer"/>
+<div align="center">
 
+### 👋 Olá, eu sou Marcelo Alves!
+
+**Desenvolvedor Full Stack | Criador de SaaS | Entusiasta de Tecnologia**
+
+Construo aplicações web, sistemas e produtos digitais  
+com foco em **soluções reais, experiência do usuário e automação.**
+
+<br>
+
+<a href="https://github.com/AlvesBelem">
+<img src="https://img.shields.io/badge/GitHub-AlvesBelem-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/alvesbelem/">
+<img src="https://img.shields.io/badge/LinkedIn-Marcelo%20Alves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/alvesbelemdev">
+<img src="https://img.shields.io/badge/Instagram-@alvesbelemdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/channel/UC2o0gAPPXmuMXIqRyVS_x8Q">
+<img src="https://img.shields.io/badge/YouTube-Marcelo%20Alves-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<!-- ===================================================== -->
+<!--                    ABOUT ME                           -->
+<!-- ===================================================== -->
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor apaixonado por tecnologia e por transformar ideias em produtos digitais.
+
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** e venho trabalhando principalmente com aplicações web, APIs, bancos de dados e produtos SaaS.
+
+Meu foco não é apenas escrever código.
+
+> **Minha ideia é transformar problemas em produtos simples, úteis e escaláveis.**
+
+### 💡 O que eu gosto de construir
+
+- 🚀 Aplicações SaaS
+- 🌐 Sistemas Web
+- 📱 Aplicações responsivas / PWA
+- 🤖 Integrações com Inteligência Artificial
+- ⚙️ APIs e automações
+- 📊 Dashboards e sistemas administrativos
+- 💬 Sistemas integrados ao WhatsApp
+- 🛒 Plataformas para pequenos negócios
+
+---
+
+<!-- ===================================================== -->
+<!--                    CURRENT FOCUS                      -->
+<!-- ===================================================== -->
+
+## 🎯 Atualmente
+
+```text
+🔭 Construindo       → Produtos SaaS e aplicações Web
+🌱 Estudando         → TypeScript, Next.js, Node.js e IA
+🧠 Explorando        → Inteligência Artificial + RAG
+⚡ Interessado       → Automação e produtos digitais
+🎓 Formação          → Análise e Desenvolvimento de Sistemas
+🚀 Objetivo          → Criar produtos que resolvam problemas reais
